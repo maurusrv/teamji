@@ -1,4 +1,4 @@
-# teamjar
+# teamji
 An exploration on applying emojis on team workflow.
 
 Adapting <a href="https://gitmoji.dev">
