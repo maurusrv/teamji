@@ -7,6 +7,13 @@ Adapting <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/scrumoji-%20🏃%20📆-FFFFFF.svg?style=flat" alt="Scrumoji">
 </a>
 
+
+## TODO
+
+1. CLI Setup
+2. Add CRUD for emojis
+3. Add hook for commit messages
+
 ## References
 
 The following are a few links that I use as learning guide in this journey. 😁

@@ -1,4 +1,30 @@
 {
   "name": "@maurusrv/teamji",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "An exploration on applying emojis on team workflow.",
+  "main": "index.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurusrv/teamji.git"
+  },
+  "keywords": [
+    "emoji",
+    "git commit"
+  ],
+  "author": "Maurus Vitor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maurusrv/teamji/issues"
+  },
+  "homepage": "https://github.com/maurusrv/teamji#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
